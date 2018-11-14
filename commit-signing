@@ -1,0 +1,5 @@
+# Commit signing
+
+GPG key should contain email address of the noreply email (i.e. *username@users.noreply.github.com*).
+
+Unverified will be tagged if signed with GPG of email address that doesn't match the email address of the commit.
